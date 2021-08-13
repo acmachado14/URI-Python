@@ -1,1 +1,1 @@
-# Exercicios do URI feito em Python!
+# Exercicios do URI feitos em Python!
